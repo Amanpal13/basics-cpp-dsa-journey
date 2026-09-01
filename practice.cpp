@@ -17,12 +17,12 @@ int main(){
 
 
     for (char ch='A'; ch <= 'Z'; ch = ch + 1) {
-        cout << ch << endl;
+        cout << ch << " ";
     }
 
 
     for (char ch='a'; ch <= 'z' ; ch = ch +1){
-        cout << ch << endl;
+        cout << ch << "";
     }
 
 
