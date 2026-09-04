@@ -38,7 +38,7 @@ int main() {
     //3. int to float
     int a = 10;
     int b = 3.0;
-    int c = (float(a)) / b; //explicit conversion from int to float.
+    float c = (float(a)) / b; //explicit conversion from int to float.
     cout << c << endl;
 
 
