@@ -68,18 +68,5 @@ int main() {
     char word = convertintouppercase('b');
     cout << word << endl;
 
-
-
-     
-
-
-
-
-
-
-
-    //fucntioncall
-    // printmyname();
-
     return 0;
 }
