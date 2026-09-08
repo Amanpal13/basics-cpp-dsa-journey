@@ -67,6 +67,5 @@ int main() {
 
     char word = convertintouppercase('b');
     cout << word << endl;
-
     return 0;
 }
