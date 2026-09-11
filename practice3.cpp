@@ -20,9 +20,6 @@ void reverseArray(int arr[], int size) {
     }
 }
 
-
-
-
 int main(){
     // int arr[]={10,20,30,40,50,60};
     // int sum =0;
@@ -39,9 +36,6 @@ int main(){
     for (int i = 0; i < size; i++) {
         cout << arr[i] << " ";
     }
-
-
-
 
     // int arr [5];
     // int size = 5;
